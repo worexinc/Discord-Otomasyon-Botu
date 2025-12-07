@@ -1,0 +1,10 @@
+{
+  "token": "BOT_TOKENİNİZ",
+  "mainGuildId": "ANA_SUNUCU_İD",
+  "secondaryGuildId": "YAN_SUNUCU_İD",
+   "logChannelId": "LOG_KANAL_İD",
+   "prefix": "!",
+  "ownerId": "KENDİ_İDNİZ"
+
+}
+// Bilgi: ban affı komutu / değil ! şeklinde kullanınız !ban-affı yazarak komutu kullanabilirsiniz.
