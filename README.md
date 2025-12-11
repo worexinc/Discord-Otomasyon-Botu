@@ -1,3 +1,5 @@
+🔧 Bir üye ana sunucudan çıktığında bot otomatik yan sunucudanda o üyeyi banlar.
+
 
 ✨ Nasıl Kullanılır?
 
